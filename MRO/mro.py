@@ -16,4 +16,4 @@ class D(B,C):
         
 d = D()
 
-d.hablar()
+C.hablar(d)
