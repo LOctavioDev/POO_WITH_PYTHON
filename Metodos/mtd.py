@@ -8,7 +8,7 @@ class Celular:
     def llamar(self): #ES LO MISMO QUE UNA FUNCION SOLO QUE CUANDO ESTA DENTRO DE LA CLASE SE LE DICE METODO
         print(f'Estas haciendo un llamado desde un: {self.modelo}')
 
-    def cortar(self):   #DEBE SE ESATR SELF PARA PODER HACER REFERENCIA AL OBJETO
+    def cortar(self):   #DEBE SE DECLARA SELF PARA PODER HACER REFERENCIA AL OBJETO
         print('Cortaste la llamada')
 
 
