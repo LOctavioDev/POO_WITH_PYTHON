@@ -1,4 +1,4 @@
-#CREAR UNA CLASE ESTUDIANTE QUE TENGA COMO ATRIBUTOS EL NOMBRE, LA EDAD Y EL GRADO. QUE TENGA CMO METODOS estudiar() QUE IMPIRMA EL MENSAJE: "EL estudiante (nombre) esta estudiando"
+#CREAR UNA CLASE ESTUDIANTE QUE TENGA COMO ATRIBUTOS EL NOMBRE, LA EDAD Y EL GRADO. QUE TENGA COMO METODOS estudiar() QUE IMPIRMA EL MENSAJE: "EL estudiante (nombre) esta estudiando"
 
 class Estudiante():
     def __init__ (self,nombre, edad, grado):
